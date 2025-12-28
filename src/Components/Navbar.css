@@ -1,0 +1,55 @@
+/* Navbar Container */
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar { 
+  width: 97%;
+  background: #F3FAFF;
+  padding: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Left Section */
+.navbar-left {
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar-logo {
+  width: 22px;
+  height: 22px;
+}
+
+.navbar-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #444;
+}
+
+/* Login Button */
+.login-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 12px;
+  border: 1px solid #53a8ec;
+  background: transparent;
+  color: #53a8ec;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.login-btn:hover {
+  background: #e8f4ff;
+}
+
+
+

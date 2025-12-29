@@ -21,10 +21,10 @@ Follow these steps to set up the project locally.
 [![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/Amin-0513/brain-tumor-backend.git)
 
 ### ZENML Deep Learning Pipeline
-[![ZenML Pipeline](https://img.shields.io/badge/ZenML-Deep%20Learning-blue?logo=zenml)](https://github.com/Amin-0513/zenml-deep-learning-pipeline.git)
+[![ZenML Pipeline](https://img.shields.io/badge/ZenML-Deep%20Learning-purple?logo=zenml)](https://github.com/Amin-0513/zenml-deep-learning-pipeline.git)
 
 ### ZenML Federated Learning Pipeline
-[![ZenML Pipeline](https://img.shields.io/badge/ZenML-Federated%20Learning-blue?logo=zenml)](https://github.com/Amin-0513/federated-mlflow-pipeline.git)
+[![ZenML Pipeline](https://img.shields.io/badge/ZenML-Federated%20Learning-purple?logo=zenml)](https://github.com/Amin-0513/federated-mlflow-pipeline.git)
 
 ```bash
 # Clone the repository

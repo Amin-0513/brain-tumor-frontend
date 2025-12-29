@@ -45,7 +45,7 @@ npm run dev
 ### User Interface
 <table>
   <tr>
-    <td><img src="images/1.jpeg width="400"/></td>
+    <td><img src="images/1.jpeg" width="400"/></td>
     <td><img src="images/2.jpeg" width="400"/></td>
   </tr>
   <tr>

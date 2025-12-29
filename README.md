@@ -13,3 +13,28 @@ Follow these steps to set up the project locally.
 ### Prerequisites
 - Node.js (>= 18)
 - npm or yarn
+
+## First setup backend to setup follow these process 
+
+### Backend FASTAPI
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/Amin-0513/brain-tumor-backend.git
+### ZENML Deep Learning Pipeline
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/Amin-0513/zenml-deep-learning-pipeline.git)
+
+### ZenML Federated Learning Pipeline
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/Amin-0513/federated-mlflow-pipeline.git)
+
+```bash
+# Clone the repository
+git clone https://github.com/Amin-0513/brain-tumor-frontend.git
+
+# Navigate to project directory
+cd brain-tumor-frontend
+
+# Install dependencies
+npm install
+# or
+yarn install
+## Start project
+npm run dev
+```

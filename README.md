@@ -42,7 +42,7 @@ npm run dev
 ```
 
 
-### User Interface
+## User Interface
 <table>
   <tr>
     <td><img src="images/1.jpeg" width="400"/></td>

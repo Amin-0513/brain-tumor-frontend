@@ -60,6 +60,6 @@ npm run dev
 </table>
 
 
-![Exempt Development 2008 Frontend](images/5.jpeg)
+![Exempt Development 2008 Frontend](images/7.jpeg)
 
 

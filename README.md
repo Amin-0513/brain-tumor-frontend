@@ -26,6 +26,11 @@ Follow these steps to set up the project locally.
 ### ZenML Federated Learning Pipeline
 [![ZenML Pipeline](https://img.shields.io/badge/ZenML-Federated%20Learning-purple?logo=zenml)](https://github.com/Amin-0513/federated-mlflow-pipeline.git)
 
+### LLM Report Generation
+
+[![Frontend Repository](https://img.shields.io/badge/Front%20End-Repository-blue?logo=huggingface)](https://github.com/Amin-0513/BrainTumorReportAI.git)
+
+
 ```bash
 # Clone the repository
 git clone https://github.com/Amin-0513/brain-tumor-frontend.git

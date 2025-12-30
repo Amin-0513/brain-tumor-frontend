@@ -28,7 +28,7 @@ Follow these steps to set up the project locally.
 
 ### LLM Report Generation
 
-[![Frontend Repository](https://img.shields.io/badge/Front%20End-Repository-blue?logo=huggingface)](https://github.com/Amin-0513/BrainTumorReportAI.git)
+[![LLM Qwen2 Repository](https://img.shields.io/badge/Front%20End-Repository-blue?logo=huggingface)](https://github.com/Amin-0513/BrainTumorReportAI.git)
 
 
 ```bash
